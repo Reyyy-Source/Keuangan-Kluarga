@@ -1,0 +1,8 @@
+{
+  "name": "KeuanganKeluarga",
+  "description": "Aplikasi pengelolaan keuangan keluarga dengan anggaran makan harian Rp40.000, alokasi gaji pokok, tukin, dan grafik laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
